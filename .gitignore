@@ -1,0 +1,6 @@
+/build/
+*.log
+*.pdb
+*.tmp
+CW4_Patch_FR_Backup/
+CW4_FR_Stage_*/

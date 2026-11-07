@@ -1,0 +1,43 @@
+CREEPER WORLD 4 — PATCH FRANÇAIS 1.0
+Pour la version 2.5.1 du jeu — Windows 64 bits
+
+INSTALLATION
+1. Fermez Creeper World 4.
+2. Lancez CW4_Patch_FR_1.0_2.5.1.exe.
+3. Choisissez le dossier du jeu, celui qui contient CW4.exe.
+4. Cliquez sur « Installer le français », puis attendez la confirmation.
+5. Relancez le jeu.
+
+Si Windows refuse l’écriture dans le dossier du jeu, fermez l’installateur,
+puis utilisez « Exécuter en tant qu’administrateur » sur cet exécutable.
+Prévoyez 3 Go d’espace libre pour la préparation et les sauvegardes.
+
+COMPATIBILITÉ
+La version visée est 2.5.1. Il n’existe aucune restriction de boutique.
+L’installateur vérifie les fichiers du jeu avant de les remplacer.
+Une installation modifiée ou une édition 2.5.1 dont les fichiers diffèrent
+de ceux pris en charge sera refusée sans remplacement des fichiers du jeu.
+Cette vérification évite d’appliquer un correctif binaire au mauvais contenu.
+
+CONTENU
+Menus, aides des unités, campagne, missions bonus et répliques scriptées.
+La traduction a fait l’objet d’une relecture et d’une harmonisation des termes.
+Les noms propres, ressources et commandes techniques restent cohérents.
+Les cartes communautaires téléchargées ne sont pas traduites automatiquement.
+Des textes déjà enregistrés dans une ancienne sauvegarde peuvent rester en anglais.
+
+REVENIR À L’ANGLAIS
+Relancez ce même exécutable, choisissez le dossier du jeu et cliquez sur
+« Restaurer l’anglais ». Les fichiers d’origine sont conservés dans le dossier
+CW4_Patch_FR_Backup, à l’intérieur du dossier du jeu. Conservez ce dossier.
+Les sauvegardes de parties ne sont pas modifiées par l’installateur.
+
+PARTAGE
+Vous pouvez partager l’exécutable seul ou cette archive avec sa notice.
+Le jeu complet n’est pas inclus. L’installateur fonctionne hors ligne et
+n’exige pas Python. Le fichier SHA256.txt permet de vérifier l’exécutable.
+
+Le format de stockage du gros fichier du jeu est décompressé lors du patch.
+Avec la sauvegarde des originaux, prévoyez environ 900 Mo supplémentaires
+dans le dossier du jeu après installation. Les données graphiques et sonores
+sont conservées à l’identique ; seul leur conteneur change de compression.
